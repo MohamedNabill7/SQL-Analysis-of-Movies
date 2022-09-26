@@ -29,18 +29,19 @@ Click <a href='https://www.kaggle.com/datasets/danielgrijalva /movies?resource=d
 	year: year of release
 
 ## Investigate the dataset
-	Ask question to get insights from data using SQL. Note: All querying was done using **SQL Server**
+	Ask question to get insights from data using SQL. Note: All querying was done using SQL Server
 	
 Question like:
-	- Total Gross and Budget from all movies
-	- Total Revenue that is generated from all movies
-	- Total Revenue for each decade "1980-1989" and "1990-1999"etc
-	- Top 10 Movies by Revenue
-	- Filter Genres by Total Revenue
-	- Top 10 Movies by Score
-	- Filter Score by Revenue to show who's the highest Revenue
-	- Top 10 Countries whose highest gross
-	- Top 10 Gross Movies and their respective Countries
-	- TOP 5 Movie directors, and movie stars for the highest score
-	- Numbers of movies and Average of movies per Director
-	- Top 10 Companies who produced the most movies
+
+	Total Gross and Budget from all movies
+	Total Revenue that is generated from all movies
+	Total Revenue for each decade "1980-1989" and "1990-1999"etc
+	Top 10 Movies by Revenue
+	Filter Genres by Total Revenue
+	Top 10 Movies by Score
+	Filter Score by Revenue to show who's the highest Revenue
+	Top 10 Countries whose highest gross
+	Top 10 Gross Movies and their respective Countries
+	TOP 5 Movie directors, and movie stars for the highest score
+	Numbers of movies and Average of movies per Director
+	Top 10 Companies who produced the most movies

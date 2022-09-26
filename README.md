@@ -59,7 +59,9 @@ Questions like:
 	
 	iv. "The Shawshank Redemption" of 1994 is the most scored movie with a 9.3 rating.
 	
-	v. "Martin Scorsese" has 19 movies that total average is 7.67 while "Christopher Nolan" has 11 movies that total average is 8.16.
+	v. "Avatar" of 2009 is the most gross movie with a $ 2,847,246,203
 	
-	vi. "Universal Pictures" Company produced 330 movies and total revenue is 35,251,375,417 during 40 years.
+	vi. "Martin Scorsese" has 19 movies that total average is 7.67 while "Christopher Nolan" has 11 movies that total average is 8.16.
+	
+	vii. "Universal Pictures" Company produced 330 movies and total revenue is $ 35,251,375,417 during 40 years.
 	

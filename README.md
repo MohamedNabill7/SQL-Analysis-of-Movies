@@ -6,7 +6,9 @@ Aim of this repo  is use SQL to analyze the movies dataset and creating insights
 	I've decided to analyze movies produced between 1980 and 2020. I've gathered data from Kaggle, cleaned
 	the data using excel, and imported it into SQL Server.
 	
+	
 ![](https://you.com/proxy?url=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.wWSz7Il51OioIGlmvkRgHAHaDy%26w%3D690%26c%3D7%26pid%3DApi%26p%3D0)
+
 
 ## Dataset
 Click <a href='https://www.kaggle.com/datasets/danielgrijalva /movies?resource=download'> here </a> to download the dataset. 

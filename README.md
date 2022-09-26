@@ -49,3 +49,17 @@ Questions like:
 	Numbers of movies and Average of movies per Director
 	Top 10 Companies who produced the most movies
 	Show the difference between top 5 movies with their most votes and most gross 
+	
+## Insights
+	i. The action genre of movies generated more revenues for movie producers.
+	
+	ii. The United States is a good area for movie production.
+	
+	iii. Action, Animation, and comedy movies generate more revenue than romance movies.
+	
+	iv. "The Shawshank Redemption" of 1994 is the most scored movie with a 9.3 rating.
+	
+	v. "Martin Scorsese" has 19 movies that total average is 7.67 while "Christopher Nolan" has 11 movies that total average is 8.16.
+	
+	vi. "Universal Pictures" Company produced 330 movies and total revenue is 35,251,375,417 during 40 years.
+	

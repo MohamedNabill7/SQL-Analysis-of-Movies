@@ -7,8 +7,7 @@ Aim of this repo  is use SQL to analyze the movies dataset and creating insights
 	the data using excel, and imported it into SQL Server.
 	
 	
-![](https://you.com/proxy?url=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.wWSz7Il51OioIGlmvkRgHAHaDy%26w%3D690%26c%3D7%26pid%3DApi%26p%3D0)
-
+![proxy](https://user-images.githubusercontent.com/67477345/192287302-492ebab9-0522-47f7-99e8-295faf3f602e.jpg)
 
 ## Dataset
 Click <a href='https://www.kaggle.com/datasets/danielgrijalva /movies?resource=download'> here </a> to download the dataset. 
@@ -35,7 +34,7 @@ Click <a href='https://www.kaggle.com/datasets/danielgrijalva /movies?resource=d
 ## Investigate the dataset
 	Ask question to get insights from data using SQL. Note: All querying was done using SQL Server
 	
-Question like:
+Questions like:
 
 	Total Gross and Budget from all movies
 	Total Revenue that is generated from all movies
